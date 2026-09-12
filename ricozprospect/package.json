@@ -1,0 +1,27 @@
+{
+  "name": "ricozprospect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RicozProspect - outbound prospecting & CRM platform (Next.js App Router + MongoDB)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0",
+    "next": "15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
